@@ -27,7 +27,6 @@ Flask
 HTML/CSS
 
 References
-
 The following GitHub projects will serve as inspiration for certain features and functionality:
 Inventory-Restock-Predictor
 Backstock-Inventory-Manager
