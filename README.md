@@ -6,47 +6,30 @@ This project is an inventory tracking web application developed independently fo
 Planned Features
 
 Inventory Tracking: View and manage products and their current inventory levels.
-
 Sales Data Input: Enter daily, weekly, or monthly sales information.
-
 Restock Predictions: Estimate when products will need to be reordered based on sales trends.
-
 Seasonal Demand: Account for seasonal changes in demand for designated products.
-
 Restock Alerts: Notify users when inventory may run out before a new order arrives.
-
 Reorder Reminders: Set custom dates for product reordering.
-
 Sales Trends: View historical sales data and trends (if time permits).
-
 Spreadsheet Import: Explore options for importing inventory and sales data from spreadsheets.
 
 Planned Pages
 
 Landing Page
-
 Data Input Page
-
 Current Inventory Page
-
 Sales Trends Page
 
 Technologies
-
 Python
-
 Flask
-
 HTML/CSS
-
-Additional libraries as needed
 
 References
 
 The following GitHub projects will serve as inspiration for certain features and functionality:
-
 Inventory-Restock-Predictor
-
 Backstock-Inventory-Manager
 
 This project will build upon ideas from these applications while incorporating additional inventory management and demand prediction features.
